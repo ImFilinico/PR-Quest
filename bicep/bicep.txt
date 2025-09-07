@@ -1,0 +1,1 @@
+bicep IAC for deploying Azure resources
