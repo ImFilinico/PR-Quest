@@ -1,0 +1,17 @@
+# Bicep parameters with secrets
+*.bicepparam
+*.json
+
+# Local Bicep build artifacts
+*.json.tmp
+*.bicep.json
+
+# VSCode settings
+.vscode/
+*.code-workspace
+
+# Logs
+*.log
+
+# Optional: ARM template compilations
+*.json
